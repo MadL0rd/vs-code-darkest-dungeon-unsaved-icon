@@ -1,0 +1,55 @@
+{
+	"name": "darkest-dungeon-unsaved-icon",
+	"displayName": "Darkest Dungeon Unsaved File Icon Extension",
+	"version": "1.0.2",
+	"publisher": "MadL0rd",
+	"icon": "assets/theme-stress-icon.png",
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"keywords": [
+		"darkest dungeon",
+		"stress icon",
+		"unsaved files",
+		"vscode",
+		"visual studio code",
+		"file icon",
+		"custom icon",
+		"theme",
+		"unsaved",
+		"roguelike",
+		"coding stress",
+		"fun extension"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MadL0rd/vs-code-darkest-dungeon-unsaved-icon"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"productIconThemes": [
+			{
+				"id": "darkest-dungeon-unsaved-icon",
+				"label": "Darkest Dungeon Unsaved File Icon Extension",
+				"path": "./theme/product-icon-theme.json"
+			}
+		]
+	},
+	"categories": [
+		"Themes"
+	],
+	"scripts": {
+		"updateFont": "node ./build/updateFont.js"
+	},
+	"devDependencies": {
+		"@eslint/js": "^9.13.0",
+		"@stylistic/eslint-plugin": "^2.9.0",
+		"eslint": "^9.13.0",
+		"open": "^7.0.3",
+		"typescript-eslint": "^8.16.0",
+		"webfont": "^11.2.4"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"fonts": [
+		{
+			"id": "darkest-dungeon-stress-icon",
+			"src": [
+				{
+					"path": "./darkest-dungeon-stress-icon.woff",
+					"format": "woff"
+				}
+			],
+			"weight": "normal",
+			"style": "normal",
+		}
+	],
+	"iconDefinitions": {
+		"circle-filled": {
+			"fontCharacter": "\\e000"
+		}
+	}
+}
