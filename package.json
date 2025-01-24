@@ -1,7 +1,8 @@
 {
 	"name": "darkest-dungeon-unsaved-icon",
 	"displayName": "Darkest Dungeon Unsaved File Icon Extension",
-	"version": "1.0.2",
+	"description": "This extension replaces the unsaved file icon with the Stress Icon from the cult-classic game Darkest Dungeon. Because coding isn't stressful enough already.",
+	"version": "1.0.3",
 	"publisher": "MadL0rd",
 	"icon": "assets/theme-stress-icon.png",
 	"galleryBanner": {
