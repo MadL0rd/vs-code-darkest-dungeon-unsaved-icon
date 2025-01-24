@@ -30,6 +30,14 @@ This extension replaces the unsaved file icon with the **Stress Icon** from the 
 3. Gaze upon the Stress Icon and feel the mounting pressure to save your file.
 4. Hit save (`Ctrl+S` or `Cmd+S`) and breathe a sigh of relief.
 
+Usage of [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) can make the appearance even more authentic!
+Just use this css
+```
+.tabs-container > .tab.dirty > .tab-actions .action-label:not(:hover):before {
+  color: rgb(220, 0, 0) !important;
+}
+```
+
 ## Why?
 
 Because developers deserve a little more drama in their lives, and unsaved files are serious business. This extension is the perfect way to remind yourself that coding is a roguelike experience—high risk, high reward.
