@@ -44,7 +44,7 @@ Because developers deserve a little more drama in their lives, and unsaved files
 
 ## Feedback
 
-Found a bug? Have a suggestion? Want to share your stress levels? Feel free to open an issue on the [GitHub repository](https://github.com/your-username/vs-code-darkest-dungeon-unsaved-icon).
+Found a bug? Have a suggestion? Want to share your stress levels? Feel free to open an issue on the [GitHub repository](https://github.com/MadL0rd/vs-code-darkest-dungeon-unsaved-icon?tab=readme-ov-file).
 
 ## License
 
